@@ -1,2 +1,2 @@
 # syllabus
-https://sites.google.com/view/ctw1/
+https://sites.google.com/view/ctw-course/
